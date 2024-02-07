@@ -1,0 +1,31 @@
+/* Custom CSS for the HomeFit Landing Page */
+
+.parallax-bg {
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* Hero Section styles with fixed background image */
+#home {
+    color: #fff;
+    text-align: center;
+    padding: 100px 0;
+    background-image: fixed;
+}
+
+.navbar-menu
+{
+    background: gray;
+}
+
+.navbar-menu:hover
+{
+    background-color: gray;
+}
+
+.navbar-item
+{
+    background: gray;
+}
